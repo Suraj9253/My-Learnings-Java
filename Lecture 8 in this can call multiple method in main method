@@ -1,0 +1,28 @@
+package JavaPackage;
+
+public class Lecture8 {
+
+	public static void main(String[] args) {
+		System.out.println("SURAJ");
+		
+		System.out.println("SURAJ2");
+		System.out.println("SURAJ3");
+		
+		amethod();
+		Bmethod();
+	}
+
+
+
+public static  void amethod(){
+	
+	System.out.println("SURAJ4");
+}
+
+
+public static  void Bmethod(){
+	
+	System.out.println("SURAJ4");
+}
+
+}
