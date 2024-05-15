@@ -1,0 +1,23 @@
+package JavaPackage;
+
+public class Variabless {
+	static int c = 10;   // static varibale as static word is used
+	
+	
+	
+	int a=5;//Global variable as outside method body but inside class body
+	public static void main(String[] args) {
+		System.out.println(c);
+		
+		int d=8;  //Local variable as it is inside method and class body
+		System.out.println(d);
+		
+	
+	 d=15;   //re assinging the value a
+		System.out.println(d);
+		
+		
+	
+	}
+
+}
