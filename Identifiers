@@ -1,0 +1,10 @@
+Identifiers :-
+#. It is a name of the basic programming elements.
+Rules :-
+1. Identifier should only contain below fashion :-
+#. Alphabets - [a to z] and [A to Z]
+#. Digits: [0 to 9]
+#. Special Charaters - [or $]
+2. Identifiers should not start with a digit. A digit can be used from 2nd chararcter onwards.
+3. Identifier should not contain space in the middle of the words. If we want to provide gap between words, they must be connected with '_'
+4. Identifier is case sensitive (a != A)
