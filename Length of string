@@ -1,0 +1,22 @@
+package JavaPackage;
+
+public class lengthofstring {
+
+	
+
+	public static void main(String[] args) {
+
+
+		String S="Hello dear myself suraj";
+		
+		int lengthofstring=S.length();
+		
+		System.out.println(lengthofstring);
+				
+
+	}
+
+}
+
+
+//output=23
