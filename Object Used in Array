@@ -1,0 +1,28 @@
+package JavaPackage;
+
+public class ARRAYY2 {
+
+	public static void main(String[] args) {
+
+
+		Object a[]	= {1,2,3,4,5,6,7,8,9,"shami","Suraj","Megha" };
+		
+		System.out.println(a);
+		
+		System.out.println(a[0]);//1
+		System.out.println(a[3]);//4
+		System.out.println(a[4]);//5
+		System.out.println(a[8]);//9
+		System.out.println(a[9]);//Shami
+		System.out.println(a[11]);//Suraj
+		
+		
+		String b[]= {"Suraj","Megha"};
+		
+		System.out.println(b[0]);//Suraj
+		System.out.println(b[1]);//Megha
+	}
+
+}
+
+
