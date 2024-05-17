@@ -12,3 +12,13 @@ public class Variable {
 	}
 
 }
+
+
+//Variable: -
+//#. Static Member
+-
+//We can call static member directly in same class or by the help of class name in different class.
+//#. Non Static Memeber
+-
+//We can call non static member by creating object of the class.
+//Object Creation Statement :- ClassName RefName = new ClassName();
