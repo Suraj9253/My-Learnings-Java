@@ -1,0 +1,14 @@
+package JavaPackage;
+
+public class Variable {
+
+	static int c=10;
+	int z=20; 
+	public static void main(String[] args) {
+	System.out.println(c);
+
+	Variable megha = new Variable();//Object creation statement=Classname refname =new classname();
+	System.out.println(megha.z);//refname and variable you want to call
+	}
+
+}
