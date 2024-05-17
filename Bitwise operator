@@ -1,0 +1,15 @@
+package JavaPackage;
+
+public class Bitwise {
+
+	public static void main(String[] args) {
+		
+			int a=1;
+	        int b=5;
+	        int c=15;
+	        System.out.println(a<c & b>a);//It checks all conditions  //true
+	        System.out.println(a>c & b<a);//It checks all conditions  //false
+	
+	}
+
+}
