@@ -1,0 +1,23 @@
+package JavaPackage;
+
+public class Assignment {
+
+	public static void main(String[] args) {
+		
+		int a=2;
+       
+         a+=12; //don't put space between + and =
+         System.out.println(a);//12+2=14
+        
+         a-=12; //don't put space between + and =
+         System.out.println(a);//14-12=2
+
+         a/=2; //don't put space between + and =
+         System.out.println(a);//2diveded by 2=1
+         
+         a*=9; //don't put space between + and =
+         System.out.println(a);//1multiplied by 9  so ans is 9
+         
+	}
+
+}
