@@ -1,0 +1,20 @@
+package JavaPackage;
+
+public class UnaryOperator2 {
+
+	public static void main(String[] args) {
+		int a=1;
+		System.out.println(a);//1
+		System.out.println(a++);//1,2--Always selects left value
+		System.out.println(a);//now a value is 2 as latest
+		System.out.println(++ a);//3,3
+		System.out.println(a);//3
+		System.out.println(a++ + a++ );//3, 4 ,4,5  so here ans will be 3+4=7 as we take 1st left  number from 2 
+		System.out.println(a);//5
+				
+
+
+
+	}
+
+}
