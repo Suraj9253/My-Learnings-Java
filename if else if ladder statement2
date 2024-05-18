@@ -17,7 +17,7 @@ public class ifstatement {
 		}
 			
 			else if(a>b) {
-				System.out.println("a is greater than b");
+				System.out.println("a is greater than b");// output is  a is greater than b
 		
 		}
 		else {
