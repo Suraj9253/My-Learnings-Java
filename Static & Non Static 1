@@ -1,0 +1,20 @@
+package JavaPackage;
+
+public class StaticS1 {
+	
+	int roll;
+	String name;
+	String College;
+	
+	
+	
+public static void main(String[] args) {
+	
+	StaticS1 S1=new StaticS1();//object creation statement
+	
+	System.out.println(S1.roll);//0
+	System.out.println(S1.name);//null
+	System.out.println(S1.College);//null
+}
+
+}
