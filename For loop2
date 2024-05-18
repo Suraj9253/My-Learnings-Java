@@ -1,0 +1,120 @@
+package JavaPackage;
+
+public class forloop {
+
+	public static void main(String[] args) {
+
+
+		for (int i=0; i <= 100; i++) 
+		{
+		System.out.println("the value of i is: " +i );
+		
+		}
+ System.out.println("Control came out of the loop");
+	}
+
+}
+
+
+o/p:-the value of i is: 0
+the value of i is: 1
+the value of i is: 2
+the value of i is: 3
+the value of i is: 4
+the value of i is: 5
+the value of i is: 6
+the value of i is: 7
+the value of i is: 8
+the value of i is: 9
+the value of i is: 10
+the value of i is: 11
+the value of i is: 12
+the value of i is: 13
+the value of i is: 14
+the value of i is: 15
+the value of i is: 16
+the value of i is: 17
+the value of i is: 18
+the value of i is: 19
+the value of i is: 20
+the value of i is: 21
+the value of i is: 22
+the value of i is: 23
+the value of i is: 24
+the value of i is: 25
+the value of i is: 26
+the value of i is: 27
+the value of i is: 28
+the value of i is: 29
+the value of i is: 30
+the value of i is: 31
+the value of i is: 32
+the value of i is: 33
+the value of i is: 34
+the value of i is: 35
+the value of i is: 36
+the value of i is: 37
+the value of i is: 38
+the value of i is: 39
+the value of i is: 40
+the value of i is: 41
+the value of i is: 42
+the value of i is: 43
+the value of i is: 44
+the value of i is: 45
+the value of i is: 46
+the value of i is: 47
+the value of i is: 48
+the value of i is: 49
+the value of i is: 50
+the value of i is: 51
+the value of i is: 52
+the value of i is: 53
+the value of i is: 54
+the value of i is: 55
+the value of i is: 56
+the value of i is: 57
+the value of i is: 58
+the value of i is: 59
+the value of i is: 60
+the value of i is: 61
+the value of i is: 62
+the value of i is: 63
+the value of i is: 64
+the value of i is: 65
+the value of i is: 66
+the value of i is: 67
+the value of i is: 68
+the value of i is: 69
+the value of i is: 70
+the value of i is: 71
+the value of i is: 72
+the value of i is: 73
+the value of i is: 74
+the value of i is: 75
+the value of i is: 76
+the value of i is: 77
+the value of i is: 78
+the value of i is: 79
+the value of i is: 80
+the value of i is: 81
+the value of i is: 82
+the value of i is: 83
+the value of i is: 84
+the value of i is: 85
+the value of i is: 86
+the value of i is: 87
+the value of i is: 88
+the value of i is: 89
+the value of i is: 90
+the value of i is: 91
+the value of i is: 92
+the value of i is: 93
+the value of i is: 94
+the value of i is: 95
+the value of i is: 96
+the value of i is: 97
+the value of i is: 98
+the value of i is: 99
+the value of i is: 100
+Control came out of the loop
