@@ -1,0 +1,15 @@
+package JavaPackage;
+
+public class ifstatement {
+
+	public static void main(String[] args) {
+
+
+		int a=10;
+		int b=20;
+		
+		if(a==b)
+			System.out.println("a and b is equal");//Here there will be no output as condition is false
+	}
+
+}
