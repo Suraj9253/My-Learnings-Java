@@ -1,0 +1,21 @@
+//For each loop is used for transversing an array.
+
+package JavaPackage;
+
+public class ForeachLoop {
+
+	public static void main(String[] args) {
+		Object b[]= {"Selenium" ,1,5,4.0,3>5,'C'};
+		for (Object a : b) {
+		
+		System.out.println( a);
+		}
+	}
+
+}
+//Output:-Selenium
+1
+5
+4.0
+false
+C
