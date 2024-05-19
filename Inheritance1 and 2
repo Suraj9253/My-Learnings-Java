@@ -1,0 +1,41 @@
+//Inheritance exibits parent class properties to child class and extends keyword is used for that just e.g father to son.
+
+//Program 1  parent class
+
+package JavaPackage;
+
+public class Inheritance1 {
+	
+	int roll=5;
+		
+
+}
+
+
+//Program 2  Child class
+package JavaPackage;
+
+
+	
+ public class Inheritance2 extends Inheritance1{        //Inhertance2 is child class and inheritance 1 is parent class
+	
+	String s="Selenium";
+	
+	public static void main (String[]args) {
+		
+		Inheritance2 i2 = new Inheritance2();           //creating obect of class to call not static global variables 
+		
+		System.out.println(i2.roll);
+		
+		System.out.println(i2.s);
+	}
+	
+
+}
+
+
+// output will be 
+
+5
+Selenium
+
