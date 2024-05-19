@@ -1,0 +1,22 @@
+package JavaPackage;
+
+public class whileloop {
+
+	public static void main(String[] args) {
+		
+		int i=10;
+		
+		while(i<20 & i<12)
+		{
+			System.out.println(i);
+			i++;                  // if there is no condition the value of i will always be 10 and will never come out of the loop.
+		}
+		}
+
+	
+
+}
+
+
+//output 10
+11
